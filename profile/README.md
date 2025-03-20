@@ -1,4 +1,6 @@
-=# 🚀 BantengClan GitHub Organization  
+---
+
+# 🚀 BantengClan GitHub Organization  
 
 Welcome to **BantengClan**! 🎉 We are a group of friends passionate about building cool projects and sharing our portfolio with the world.  
 
@@ -39,6 +41,18 @@ Here are some of our standout projects:
 🔹 [**Project Name 3**](https://github.com/orgs/bantengclan/repo-3) – *Brief description of project 3.*  
 
 📌 See all our projects on [GitHub](https://github.com/bantengclan).  
+
+---
+
+## 🌱 Roadmap
+- Q2 2025: Launch new feature for Project Name 1
+- Q3 2025: Update UI for Project Name 2
+
+---
+
+## 🏆 Achievements
+- Project Name 1 featured on [Tech Blog]
+- Reached 100 stars on Project Name 2
 
 ---
 ## 📡 Stay Connected  
