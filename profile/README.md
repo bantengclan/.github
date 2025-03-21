@@ -9,7 +9,20 @@ Welcome to **BantengClan**! 🎉 We are a group of friends passionate about buil
 ## 🛠️ Tech Stack  
 We use the following technologies in some of our projects:  
 
-![Tech Stack](https://skillicons.dev/icons?i=react,tailwind,laravel,php,mysql,js,html,css)  
+## Tech Stack
+
+<p align="left">
+  <img height="64" src="https://cdn.simpleicons.org/react" alt="React"/>
+  <img height="64" src="https://cdn.simpleicons.org/preact" alt="Preact"/>
+  <img height="64" src="https://cdn.simpleicons.org/nextdotjs" alt="Next Js"/>
+  <img height="64" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"/>
+  <img height="64" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"/>
+  <img height="64" src="https://cdn.simpleicons.org/html5" alt="HTML"/>
+  <img height="64" src="https://cdn.simpleicons.org/css3" alt="CSS"/>
+  <img height="64" src="https://cdn.simpleicons.org/laravel" alt="Laravel"/>
+  <img height="64" src="https://cdn.simpleicons.org/php" alt="PHP"/>
+  <img height="64" src="https://cdn.simpleicons.org/mysql" alt="MySQL"/>
+</p>
 
 ---
 
@@ -60,4 +73,4 @@ Here are some of our standout projects:
 
 ---
 
-<!-- V1 Readme Md -->
+<!-- V1.0.1 Readme Md add nextjs,preact and change to simpleicons-->
