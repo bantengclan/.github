@@ -22,6 +22,12 @@ We use the following technologies in some of our projects:
   <img height="64" src="https://cdn.simpleicons.org/laravel" alt="Laravel"/>
   <img height="64" src="https://cdn.simpleicons.org/php" alt="PHP"/>
   <img height="64" src="https://cdn.simpleicons.org/mysql" alt="MySQL"/>
+  <img height="64" src="https://cdn.simpleicons.org/postgresql" alt="Postgree"/>
+  <img height="64" src="https://cdn.simpleicons.org/capacitor" alt="Capacitor"/>
+  <img height="64" src="https://cdn.simpleicons.org/flutter" alt="Flutter"/>
+  <img height="64" src="https://cdn.simpleicons.org/kotlin" alt="Kotlin"/>
+  <img height="64" src="https://cdn.simpleicons.org/python" alt="Python"/>
+  <img height="64" src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab"/>
 </p>
 
 ---
@@ -73,4 +79,4 @@ Here are some of our standout projects:
 
 ---
 
-<!-- V1.0.1 Readme Md add nextjs,preact and change to simpleicons-->
+<!-- V1.0.2 Readme Md add colab,capacitor,python,kotlin,flutter,postgree-->
